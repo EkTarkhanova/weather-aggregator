@@ -30,7 +30,7 @@ docker build -t weather-aggregator .
 bash:
 docker run -p 5002:5000 weather-aggregator
 
-## Приложение будет доступно по адресу http://localhost:5002. Пример запроса: http://localhost:5002/weather?city=London.
+### Приложение будет доступно по адресу http://localhost:5002. Пример запроса: http://localhost:5002/weather?city=London.
 
 ### Загрузка Docker-образа на Docker Hub:
 Docker-образ приложения был загружен на Docker Hub, и он доступен по следующей ссылке:
@@ -57,7 +57,7 @@ http://localhost:5002/history
 ### Приложение
 Ссылка на Docker Hub: 
 https://hub.docker.com/repository/docker/quimoriz/weather-aggregator/general
-Исходные файлы прикреплены к заданию
+
 
 ### Скриншоты:
 ![Скриншот 1](1.jpg)
