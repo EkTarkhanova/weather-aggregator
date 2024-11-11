@@ -60,7 +60,8 @@ https://hub.docker.com/repository/docker/quimoriz/weather-aggregator/general
 Исходные файлы прикреплены к заданию
 
 ### Скриншоты:
-
+![Скриншот 1](1.jpg)
+![Скриншот 2](2.jpg)
 
 
 
